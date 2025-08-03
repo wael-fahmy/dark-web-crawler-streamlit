@@ -1,25 +1,24 @@
 # Core dependencies
 streamlit
 requests[socks]
+urllib3[socks]
 beautifulsoup4
 pandas
 matplotlib
 wordcloud
+pillow  # optional but improves image handling
 
 # NLP
-nltk
+nltk==3.8
 
 # Encryption
 cryptography
 
-# Optional (to silence matplotlib warnings and improve plots)
-pillow
-
-# For SQLite export compatibility
+# SQLite compatibility
 sqlalchemy
 
-# Tor proxy (make sure you run Tor locally on 9050)
+# SOCKS proxy support for Tor
 PySocks
 
-# Prevent Numpy 2.x compatibility issues
+# Compatibility fix for older compiled extensions
 numpy<2
