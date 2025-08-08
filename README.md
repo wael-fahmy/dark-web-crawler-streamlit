@@ -83,7 +83,6 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 ├── app.py                  # Streamlit GUI + backend logic
 ├── requirements.txt        # Python dependencies
 ├── Dockerfile              # Docker build config
-├── utils/                  # Helper functions
 ├── docs/
 │   └── architecture.drawio.png
 └── README.md
@@ -133,16 +132,11 @@ If you use this project, please cite:
   note={Computer Security Course Project, Lakehead University}
 }
 ```
-
----
-
 ### 📬 Contact
 
 For questions or feedback, please contact:
 
 * Wael Fahmy: [wfahmy@lakeheadu.ca](mailto:wfahmy@lakeheadu.ca)
 * Amirhossein Zeinali: [azeinali@lakeheadu.ca](mailto:azeinali@lakeheadu.ca)
-
-```
 
 
