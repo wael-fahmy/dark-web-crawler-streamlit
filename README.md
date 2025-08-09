@@ -127,7 +127,7 @@ If you use this project, please cite:
 ```
 @misc{fahmy2025darkweb,
   title={Passive Dark Web Crawler for Cyber Threat Intelligence Extraction and Visualization},
-  author={Wael Fahmy and Amirhossein Zeinali},
+  author={Wael Fahmy and Amirhossein Zeinali Dehaghani},
   year={2025},
   note={Computer Security Course Project, Lakehead University}
 }
@@ -137,6 +137,6 @@ If you use this project, please cite:
 For questions or feedback, please contact:
 
 * Wael Fahmy: [wfahmy@lakeheadu.ca](mailto:wfahmy@lakeheadu.ca)
-* Amirhossein Zeinali: [azeinali@lakeheadu.ca](mailto:azeinali@lakeheadu.ca)
+* Amirhossein Zeinali Dehaghani: [azeinali@lakeheadu.ca](mailto:azeinali@lakeheadu.ca)
 
 
